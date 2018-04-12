@@ -1,0 +1,56 @@
+JOHANNESBURG - A lot of us can attest to the various ways technology and social media positively impacts our lives. However, the modern age of constant technological developments and upgrades can unwittingly leave one vulnerable to various personal information breeches. A recent example of this, comes in the form of a video which continues to gain attraction on Facebook. Have you read: Apple just made it more difficult and expensive to fix your screenThe video, titled "Ladies. How to check your man's WhatsApp", depicts what seems to be a young woman giving a tutorial on "How to hack into your boyfriend's WhatsApp".The video is currently sitting on over 1,7 million views and been shared over 35 000 times. The Business Report team tested the hacking process on both Android and Apple devices and the hack worked on both systems with relative ease.Silhouettes of mobile users are seen next to logos of social media apps Signal, Whatsapp and Telegram projected on a screen in this picture illustrationHow the hack works Once an individual has accessed the cellular phone of the intended victim, the process of duplication will take about a minute with a fair connection.First step: Open Google Chrome on your smartphone and search Whatsapp Web on your own device, and select the first search link: www.//web.whatsapp.com. Once the page loads, the next step would be to drop down the three "buttons" on the top right-hand corner of the screen which will then open up a number of options, including, "Select Desktop Site"Second step: Select the "Desktop Site" option, once the selection loads, it will display a QR code (a type of matrix barcode or two-dimensional barcode) on the screen. Like so: Third step: To open WhatAapp on the mobile phone intended to duplicate WhatsApp from. Thereafter to select "WhatsApp web" on the three drop down buttons at the top right hand corner of the app. The app will immediately launch a "Scan Code" process. Fourth step: Place the scan over the QR code displayed on the Google Chrome site displayed on the first phone. This should take a few seconds at most. Then, almost instantly, all contacts, messages and history is automatically downloaded onto the second phone. Fifth step: The final step would be to select "Turn on Desktop Notifications," this will enable all new messages and interactions to update to the displayed Google Chrome site. It is important to note that unless the user of the first phone actually selects their "WhatsApp web" option on the app's top right hand corner, to view possible devices that they may be inadvertently logged into - they'll be none the wiser to the fact that they have been hacked. WATCH the viral video currently sparking a debate on WhatsApp privacy : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-17710838-1', 'auto');
+
+  
+   
+  
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    supports HTML5 video
+  
+Play VideoPlayMute0:00/0:00Loaded: 0%Progress: 0%Stream TypeLIVE0:00 Playback Rate1xChaptersChaptersDescriptionsdescriptions off, selectedCaptionsundefined settings, opens undefined settings dialogcaptions and subtitles off, selectedAudio TrackFullscreenThis is a modal window.ADVERTISINGinRead invented by TeadsNo compatible source was found for this media.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.Video Advertisement
+
+var player = videojs('player-1523452473097', {
+  plugins: {
+    embed:{
+  embeddable: true,
+  location: '//video.iol.co.za/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhLzIwMTgvMDQvMTEvaW9sLzUyMi9Cb25nYS1Cb3RoYS0tLUxhZGllcy4uLi4tSG93LXRvLWNoZWNrLXlvdXItbWFucy13aGF0c2FwcC4uLi4ubXA0JnN0YW5kQWxvbmU9dHJ1ZQ=='
+},
+watermark: {
+  file: '//imigino-cdn.iol.co.za/logos/inmLogo.png',
+  xpos: 0,
+  ypos: 0,
+  xrepeat: 0,
+  opacity: 0.75
+},
+ga: {
+  'eventsToTrack': ['start', 'end', 'play', 'pause', 'fullscreen', 'error']
+},
+  }
+});
+player.ima({
+  id: 'player-1523452473097',
+  adLabel: 'Video Advertisement',
+  adTagUrl: '//pubads.g.doubleclick.net/gampad/ads?sz=400x300|640x480&iu=/116466607/IOL/Video&ciu_szs=300x250,300x600,728x90&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1'
+});
+
+
+
+It is worth noting that the video was first posted on Facebook 11 months ago, and yet there seem to be no security measures implemented by WhatsApp to prevent or notify this relatively easy hacking process. Business Report contacted WhatsApp Inc. on the over the ease in which user's private information can be accessed and/or duplicated. We are awaiting a response from the company and will update our readers as soon as possible. If you feel that some one has used this method to hack your WhatsApp, you can simply select the WhatsApp Web option on the app via your smartphone and select log out of all computers. This is a developing storyALSO READ: WhatsApp launches app for businesses- BUSINESS REPORT ONLINE
