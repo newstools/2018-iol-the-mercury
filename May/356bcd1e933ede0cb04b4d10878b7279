@@ -1,0 +1,27 @@
+San Francisco - It is time to change your Twitter password now as the micro-blogging platform has asked its 336 million users to do so across its services after it discovered a bug that stored passwords in plain text in an internal system.
+
+In a blog post on Thursday, Twitter said it recently identified a bug that stored passwords unmasked in an internal log.ADVERTISINGinRead invented by Teads
+
+"We have fixed the bug, and our investigation shows no indication of breach or misuse by anyone.
+
+"Out of an abundance of caution, we ask that you consider changing your password on all services where you've used this password," said Parag Agrawal, Chief Technology Officer at Twitter, adding that Twitter is sorry that this has happened.
+
+"We recognise and appreciate the trust you place in us, and are committed to earning that trust every day," he wrote.
+
+Twitter masks passwords through a process called hashing using a function known as bcrypt, which replaces the actual password with a random set of numbers and letters that are stored in Twitter's system.
+
+"This allows our systems to validate your account credentials without revealing your password. This is an industry standard," Agrawal noted. 
+
+Due to a bug, passwords were written to an internal log before completing the hashing process.
+
+"We found this error ourselves, removed the passwords, and are implementing plans to prevent this bug from happening again," Twitter said.
+
+Agrawal advised people to change their passwords, enable two-factor authentication on their Twitter account and use a password manager to create strong, unique passwords on every service they use.
+
+After the massive Facebook data scandal, a report in The Sunday Telegraph recently claimed that Twitter had also sold users' data to a Cambridge Analytica (CA) researcher who collected the data of 87 million Facebook users without their knowledge -- a charge that Twitter has denied.
+
+According to the report, Twitter sold public data access "for one day" in 2015 to Aleksandr Kogan, then a psychology researcher with University of Cambridge, and his company Global Science Research (GSR).
+
+In a statement given to IANS, Twitter said that based on the recent reports, they conducted their own internal review and did not find any access to private data about people who use Twitter.
+
+Twitter reported a revenue of $665 million -- an increase of 21 per cent year-over-year (yoy) -- in the first quarter of 2018.
