@@ -1,0 +1,25 @@
+Frankfurt - European researchers have found that the popular PGP and S/MIME email encryption standards are vulnerable to being hacked, leading them to urge people using them to disable and uninstall them immediately.
+
+University researchers from Muenster and Bochum in Germany, and Leuven in Belgium, discovered the flaws in the encryption methods that can be used with popular email applications such as Microsoft Outlook and Apple Mail.AdChoicesADVERTISINGinRead invented by Teads
+
+"There are currently no reliable fixes for the vulnerability," lead researcher Sebastian Schinzel, professor of applied cryptography at the Muenster University of Applied Sciences, said in a tweet on Monday.
+
+"If you use PGP/GPG or S/MIME for very sensitive communication, you should disable it in your email client for now." The team will unveil their findings in full on Tuesday.
+
+The vulnerabilities in PGP and S/MIME standards pose an "immediate risk" to email communication including the potential exposure of the contents of past messages, said the Electronic Frontier Foundation https://www.eff.org/deeplinks/2018/05/attention-pgp-users-new-vulnerabilities-require-you-take-action-now, a U.S. digital rights group.
+
+It recommended that users switch for the time being to secure messaging app Signal for sensitive communications.
+
+Germany's Federal Office for Information Security (BSI) put out a statement saying there were risks that attackers could secure access to emails in plain text once the recipient had decrypted them.
+
+It added, however, that it considered the encryption standards themselves to be safe if correctly implemented and configured.
+
+"Securely encrypted email remains an important and suitable means of increasing information security," it said in a statement, adding that the flaws which have been discovered can be remedied through patches and proper use.
+
+The use of PGP - short for Pretty Good Privacy - for secure communications has been advocated, among others, by Edward Snowden, who blew the whistle on pervasive electronic surveillance at the U.S. National Security Agency before fleeing to Russia.
+
+PGP, for example, works using an algorithm to generate a 'hash', or mathematical summary, of a user's name and other information. This is then encrypted with the sender's private 'key' and decrypted by the receiver using a separate public key.
+
+To exploit the weakness, a hacker would need to have access to an email server or the mailbox of a recipient. In addition the mails would need to be in HTML format and have active links to external content to be vulnerable, the BSI said.
+
+It advised users to disable the use of active content, such as HTML code and the loading of external content, and to secure their email servers against external access.
