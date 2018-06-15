@@ -1,0 +1,48 @@
+Durban - A 37-year-old woman and her daughter were killed after the roof of their Shallcross home caved in, early on Friday morning. 
+The woman and the 1-year-old girl were asleep in their beds when tragedy struck in the early parts of the morning. 
+
+
+
+
+
+
+
+
+
+
+
+    Video Player is loading.Play VideoPlayMute0:00/0:00Loaded: 0%Progress: 0%Stream TypeLIVE0:00 Playback Rate1xChaptersChaptersDescriptionsdescriptions off, selectedCaptionscaptions settings, opens captions settings dialogcaptions off, selectedAudio TrackFullscreenThis is a modal window.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.
+    
+        videojs('player-1529045625772', {
+            plugins: {
+                wavesurfer: {
+  src: 'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/audio/2018/06/15/31756737WhatsAppPtt20180615at7.37.30AM.ogg',
+  msDisplayMax: 10,
+  debug: true,
+  waveColor: 'gray',
+  progressColor: 'black',
+  cursorColor: 'black',
+  hideScrollbar: true
+},
+watermark: {
+  file: '//imigino-cdn.iol.co.za/logos/inmLogo.png',
+  xpos: 0,
+  ypos: 0,
+  xrepeat: 0,
+  opacity: 0.75
+},
+embed:{
+  embeddable: true,
+  location: '//media.iol.co.za/audio/1/buildEnvelope/c291cmNlPUlPTCZhdWRpb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL2F1ZGlvLzIwMTgvMDYvMTUvMzE3NTY3MzdXaGF0c0FwcFB0dDIwMTgwNjE1YXQ3LjM3LjMwQU0ub2dnJnN0YW5kQWxvbmU9dHJ1ZQ=='
+},
+            }
+        });
+    
+    
+
+
+Emergency Medical Services Media Liaison, Robert Mckenzie, said they received a call informing them that a roof had collapsed at a house in the Durban south area of Shallcross. AdChoicesADVERTISINGinRead invented by Teads
+"Paramedics from the KwaZulu-Natal Department of Health’s Emergency Medical Services were a part of the emergency teams that responded. We found that a woman and her daughter had sustained fatal injuries during the roof collapse. It is believed that the two victims were the only people in the house at the time," he said. 
+Mckenzie extended his condolences to the woman's family and friends. 
+He said police were called out to the scene and would be investigating further. 
+The Mercury
