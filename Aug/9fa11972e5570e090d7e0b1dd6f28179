@@ -1,0 +1,124 @@
+Durban - The eThekwini Municipality has been challenged to devise concrete plans to tackle homelessness in the city, a subject that organisations say has been swept under the carpet for years. 
+The Umbilo Business Forum and the Denis Hurley Centre have called on the municipality to partner with them on an ambitious plan to tackle homelessness in the area.
+The organisations’ development proposal for the Dalton Hostel area is aimed at coming up with a “holistic approach to assist those living on the street, to reduce begging, drug abuse and crime”.
+The proposal calls for the municipality to upgrade the hostel entrance, boost the skin traders as a tourist attraction, maintain the beer hall and help the homeless who live in makeshift shelters. 
+A study commissioned by the municipality in 2016 found that there were almost 4000 people living on the street and in homeless shelters in central Durban. 
+
+The plight of the city’s homeless was highlighted in an investigative piece by Carte Blanche that aired yesterday. In the piece, it was said that the city’s homeless people faced exploitation, abuse and neglect at homeless shelters where they pay per night for a safe haven. AdChoicesADVERTISINGinRead invented by Teads
+“The municipality does not see communities, they see vagrants who they need to get rid of,” said Raymond Perrier, the director of the Denis Hurley Centre. 
+The centre runs a free clinic and crèche offering health and child- care services as part of their commitment to helping the poorest in Durban. 
+“They have the same rights and responsibilities as other citizens, and the municipalities should see the people living in the hostel, those living in the beer hall and the homeless as citizens of Durban.”
+
+ 
+
+
+
+
+
+
+
+{
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "name": "'IOL video'",
+    "description": "'IOL video'",
+    "thumbnailUrl": "'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/video/2018/08/06/63573875WhatsAppVideo20180805at14.33.47.png'",
+    "uploadDate": "",
+    "duration": "'PT28.805S'",
+    "publisher": {
+            "@type": "Organization",
+            "name": "'IOL'",
+            "logo": {
+                    "@type": "ImageObject",
+                    "url": "'//imigino-cdn.iol.co.za/logos/ivoLogo.png'"
+            }
+    },
+    "contentUrl": "'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/video/2018/08/06/63573875WhatsAppVideo20180805at14.33.47.mp4'",
+    "embedUrl": "'//video.iol.co.za/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvLzIwMTgvMDgvMDYvNjM1NzM4NzVXaGF0c0FwcFZpZGVvMjAxODA4MDVhdDE0LjMzLjQ3Lm1wNCZzdGFuZEFsb25lPXRydWU='"
+}
+
+
+
+
+
+
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-17710838-1', 'auto');
+
+
+
+  
+   
+  
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    supports HTML5 video
+  
+Video Player is loading.Play VideoPlayMute0:00/0:00Loaded: 0%Progress: 0%Stream TypeLIVE0:00 Playback Rate1xChaptersChaptersDescriptionsdescriptions off, selectedCaptionscaptions and subtitles off, selectedAudio TrackFullscreenThis is a modal window.No compatible source was found for this media.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.AdChoicesADVERTISINGinRead invented by TeadsVideo Advertisement
+
+var player = videojs('player-1533570636156', {
+  plugins: {
+    embed:{
+  embeddable: true,
+  location: '//video.iol.co.za/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvLzIwMTgvMDgvMDYvNjM1NzM4NzVXaGF0c0FwcFZpZGVvMjAxODA4MDVhdDE0LjMzLjQ3Lm1wNCZzdGFuZEFsb25lPXRydWU='
+},
+watermark: {
+  file: '//imigino-cdn.iol.co.za/logos/ivoLogo.png',
+  xpos: 0,
+  ypos: 0,
+  xrepeat: 0,
+  opacity: 0.75
+},
+ga: {
+  'eventsToTrack': ['start', 'end', 'play', 'pause', 'fullscreen', 'error']
+},
+playerTrackerReporter: {
+  params:{
+    videoKey: 'public/inm/media/video/2018/08/06/63573875WhatsAppVideo20180805at14.33.47'
+  },
+  playerShowTracking: false,
+  contentPlayTracking: true,
+  videoStartTracking: false
+},
+  }
+});
+player.ima({
+  id: 'player-1533570636156',
+  adLabel: 'Video Advertisement',
+  adTagUrl: 'https://pubads.g.doubleclick.net/gampad/ads?sz=400x300|640x480&iu=/116466607/IOL/Video&ciu_szs=300x250,300x600,728x90&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1'
+});
+
+
+
+
+
+Perrier said the city had done little to improve the area for people living in Dalton. 
+“We have been told that R10 million has been set aside to address some of the most pressing issues. 
+“We wish to challenge the municipality with a concrete plan to use the R10m in a way that will make a concrete difference to the lives of the people of Dalton,” he said. 
+
+Responding to whether the city intended tearing down the beer hall to expand the taxi rank, eThekwini spokesperson Mandla Nsele would not be drawn on the details. 
+“The city is currently deliberating the best suitable options for the site. This is a multidisciplinary department project,” he said.
+Umbilo Business Forum chairperson Sikho Msomi said conditions in the Dalton area remained “abject, despite heroic attempts to survive by the existing community in that highly unfavourable environment”.
+Ubuntu
+
+He said the forum was moved by the notion of “ubuntu economics” which was about the inclusion of the marginalised communities in Umbilo and Glenwood into the mainstream economy through increased job creation.
+Msomi said that through partnerships and a “united and enlightened” business community, they aimed to revive the area to improve and unlock business potential and opportunities in order to tackle ­unemployment and crime. 
+This, he said, would contribute to the revival of the Glenwood and Umbilo area. 
+Msomi said what was needed was “sound leadership and effective service delivery, based on respect for Glenwood and Umbilo citizens’ rights in terms of the Constitution”. “Businesses alone contributes close to R100 million in rates per annum,” he said.
+
+Regarding Msomi calling out the municipality for neglecting the people of Dalton, Nsele said: “The city is deliberating on all aspects of the project, which includes the people currently living at the site.” This entailed the adoption of a social ­developmental strategy and the ­implementation of recommendations of an in-depth study on homelessness in the city, he said. 
+“We are hoping to establish three shelters that should accommodate 300 people collectively. Two will be in the CBD and one will be based outside the city centre. Assistance will be provided to those in the shelters in terms of training so they can gain employment. 
+“The city will be establishing drop-in centres, one in Dalton and the other in Margaret Mncadi Avenue. We are looking for another site in the north. 
+“The drop-in centres will do assessments and screening of individuals and see what assistance is required. They will then be referred to a shelter or for services they may require,” said Nsele. 
+
+He said a full report on the city’s plans was tabled at a full council sitting in April. 
+The Umbilo Business Forum and Hurley Centre said they were committed to continuing their work with or without the municipality. 
+The Mercury
