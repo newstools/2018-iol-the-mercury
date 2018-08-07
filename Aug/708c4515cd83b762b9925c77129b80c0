@@ -1,0 +1,194 @@
+Durban - It was like a scene out of the Hollywood blockbuster Friends With Benefits, where Justin Timberlake asked Mila Kunis to be his girlfriend using a dance flash mob in the centre of Time Square New York. 
+ 
+
+ This time though, it was Shivani Govender from Johannesburg, South Africa, who was in New York for work when her wildest dreams came true. 
+
+ 
+
+ Her boyfriend Tevin Govender, 26, 
+ not only surprised her with a dance flash mob in the centre of Time Square, New York, he also had a screen flashing across saying 'I Love You, Mrs
+  G, Will you marry me?'
+
+ 
+
+ "It was like a scene out of a movie," said Govender, 25, a project manager at FNB. 
+
+ 
+
+ "At first I did not even know what was happening. Until the very last moment, when I saw Tevin reveal his mask, drop on one knee and ask for my hand in marriage. 
+
+ 
+
+ "I fell to my knees in shock," said Govender. 
+
+ 
+
+ Reliving the moment to her proposal, Govender said Tevin who is employed in commercial finance, had been traveling for work. 
+
+ 
+
+ 
+  
+
+
+
+
+
+
+
+{
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "name": "'IOL video'",
+    "description": "'IOL video'",
+    "thumbnailUrl": "'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/video/iol/2018/08/07/16441489/0/WhatsApp Video 2018-08-07 at 10.18.26 (3).png'",
+    "uploadDate": "",
+    "duration": "'PT0S'",
+    "publisher": {
+            "@type": "Organization",
+            "name": "'IOL'",
+            "logo": {
+                    "@type": "ImageObject",
+                    "url": "'//imigino-cdn.iol.co.za/logos/ivoLogo.png'"
+            }
+    },
+    "contentUrl": "'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/video/iol/2018/08/07/16441489/0/WhatsApp Video 2018-08-07 at 10.18.26 (3).mp4'",
+    "embedUrl": "'//video.iol.co.za/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvL2lvbC8yMDE4LzA4LzA3LzE2NDQxNDg5LzAvV2hhdHNBcHAgVmlkZW8gMjAxOC0wOC0wNyBhdCAxMC4xOC4yNiAoMykubXA0JnN0YW5kQWxvbmU9dHJ1ZQ=='"
+}
+
+
+
+
+
+
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-17710838-1', 'auto');
+
+
+
+  
+   
+  
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    supports HTML5 video
+  
+Video Player is loading.Play VideoPlayMute0:00/0:00Loaded: 0%Progress: 0%Stream TypeLIVE0:00 Playback Rate1xChaptersChaptersDescriptionsdescriptions off, selectedCaptionscaptions and subtitles off, selectedAudio TrackFullscreenThis is a modal window.No compatible source was found for this media.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.Video Advertisement
+
+var player = videojs('player-1533637950657', {
+  plugins: {
+    embed:{
+  embeddable: true,
+  location: '//video.iol.co.za/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvL2lvbC8yMDE4LzA4LzA3LzE2NDQxNDg5LzAvV2hhdHNBcHAgVmlkZW8gMjAxOC0wOC0wNyBhdCAxMC4xOC4yNiAoMykubXA0JnN0YW5kQWxvbmU9dHJ1ZQ=='
+},
+watermark: {
+  file: '//imigino-cdn.iol.co.za/logos/ivoLogo.png',
+  xpos: 0,
+  ypos: 0,
+  xrepeat: 0,
+  opacity: 0.75
+},
+ga: {
+  'eventsToTrack': ['start', 'end', 'play', 'pause', 'fullscreen', 'error']
+},
+playerTrackerReporter: {
+  params:{
+    videoKey: 'public/inm/media/video/iol/2018/08/07/16441489/0/WhatsApp Video 2018-08-07 at 10.18.26 (3)'
+  },
+  playerShowTracking: false,
+  contentPlayTracking: true,
+  videoStartTracking: false
+},
+  }
+});
+player.ima({
+  id: 'player-1533637950657',
+  adLabel: 'Video Advertisement',
+  adTagUrl: 'https://pubads.g.doubleclick.net/gampad/ads?sz=400x300|640x480&iu=/116466607/IOL/Video&ciu_szs=300x250,300x600,728x90&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1'
+});
+
+
+
+
+  
+   Tevin Govender performed with a flash mob in New York to ask for Shivani Govender's hand in marriage. Picture: Supplied 
+  
+ 
+ 
+
+ 
+
+ "I had spent the week in New York with my work team and Tevin was in Atlanta. 
+ On the night of our engagement, Tevin had told me that he was attending a very important event in Atlanta and he would have loved for me to accompany him. 
+
+ 
+
+ "So we chatted and I told him that I would be there in spirit and we agreed that I would get all dressed up and we would video call each other leading up to his event.  
+
+ 
+
+ "Little did I know that he was already in New York and had made plans with a wedding planner from LA to get our engagement off the ground," she said.
+
+ 
+
+ Govender who owns a dance school called Desi Motion, which focusses on Bollywood fusion combined with other genres of dance, said she had been on her way to dinner when they stopped at Times Square. 
+
+ 
+
+ "The tour guide was also involved in this because he took a longer way to get to Times Square and when I got there a photographer approached our group and asked us if he could take pictures of us and put them up on screen. 
+
+ 
+
+ "I was thrilled thinking what are the chances, little did I know it was actually Tevin who hired the photographer," said Govender. 
+
+ 
+
+ Govender said the flash mob then began dancing to a song called Goodnight by John Legend. 
+
+ 
+
+ "Even though that is our song it didn't strike me. 
+ All the dancers had masks on and being so interested in dance I was really excited about learning a few moves from them. 
+
+ 
+
+ "Then I saw this guy come in the centre of the group and I thought that why would they put him in the centre when he made a few errors. 
+
+ 
+
+ "Lol, Little did I know it was Tevin.  
+ He removed his mask and turned me around to look at his proposal on screen and dropped to his knees. 
+
+ 
+
+ "I
+ t was a beautiful moment. And even though it came as a shock, I said yes."
+
+ 
+
+ The couple said they received tons of congratulatory messages. 
+
+ 
+
+ Their engagement was also featured in the New York Times. 
+
+ 
+
+ Govender said Tevin booked a penthouse in New York where they spent the weekend sightseeing Brooklyn Bridge and Empire Building. 
+
+ 
+
+ The couple hasn't decided when they are going to tie the knot. 
+
+ 
+
+ 
+  Daily News
