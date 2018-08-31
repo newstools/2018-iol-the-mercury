@@ -1,0 +1,169 @@
+DURBAN - AN Ethiopian trader who had his shop set alight this week, said it was his third shop in under a year to be attacked.
+ 
+  
+ 
+ 
+  John Ashtal, a foreign trader based at the KwaDabeka township, near Pinetown, said he would not give up as he had to feed his family. 
+ 
+ 
+  
+ 
+ 
+  Four armed fired men had gunshots into the air and warned off neighbours from coming outside when they attacked him at his shop while he was inside sleeping. 
+ 
+ 
+  
+ 
+ 
+  They robbed Ashtal of R4000 in cash, airtime and cigarettes. The armed men broke in, allegedly with an axe, sprayed the shop with paraffin before setting it alight and fleeing.
+ 
+ 
+  
+ 
+ 
+  
+   "This is the third store that has been burnt in this area. I have stopped going to the police station each time it happens, because it is futile, it is a waste of my time when I could use that time to pick up the pieces as I am doing now," he said. 
+  
+ 
+ 
+  
+ 
+ 
+  When the Sunday Tribune visited the area on Friday, Ashtal was repainting the charred container shop and was angry, revealing that he did not bother reporting incidents to the police anymore because they never helped. He said it was the third store in a year to be attacked.
+ 
+ 
+  
+ 
+ 
+  
+   Ashtal
+    said his suffering came with the territory as a foreigner. 
+  
+  
+   
+  
+  
+   
+    
+
+
+
+
+
+
+
+{
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "name": "'IOL video'",
+    "description": "'IOL video'",
+    "thumbnailUrl": "'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/video/nt/2018/08/31/16828939/0/WhatsApp Video 2018-08-31 at 15.24.31.png'",
+    "uploadDate": "",
+    "duration": "'PT0S'",
+    "publisher": {
+            "@type": "Organization",
+            "name": "'IOL'",
+            "logo": {
+                    "@type": "ImageObject",
+                    "url": "'//imigino-cdn.iol.co.za/logos/ivoLogo.png'"
+            }
+    },
+    "contentUrl": "'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/video/nt/2018/08/31/16828939/0/WhatsApp Video 2018-08-31 at 15.24.31.mp4'",
+    "embedUrl": "'//video.iol.co.za/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvL250LzIwMTgvMDgvMzEvMTY4Mjg5MzkvMC9XaGF0c0FwcCBWaWRlbyAyMDE4LTA4LTMxIGF0IDE1LjI0LjMxLm1wNCZzdGFuZEFsb25lPXRydWU='"
+}
+
+
+
+
+
+
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-17710838-1', 'auto');
+
+
+
+  
+   
+  
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    supports HTML5 video
+  
+Video Player is loading.Play VideoPlayMute0:00/0:00Loaded: 0%Progress: 0%Stream TypeLIVE0:00 Playback Rate1xChaptersChaptersDescriptionsdescriptions off, selectedCaptionscaptions and subtitles off, selectedAudio TrackFullscreenThis is a modal window.No compatible source was found for this media.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.Video Advertisement
+
+var player = videojs('player-1535738145240', {
+  plugins: {
+    embed:{
+  embeddable: true,
+  location: '//video.iol.co.za/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvL250LzIwMTgvMDgvMzEvMTY4Mjg5MzkvMC9XaGF0c0FwcCBWaWRlbyAyMDE4LTA4LTMxIGF0IDE1LjI0LjMxLm1wNCZzdGFuZEFsb25lPXRydWU='
+},
+watermark: {
+  file: '//imigino-cdn.iol.co.za/logos/ivoLogo.png',
+  xpos: 0,
+  ypos: 0,
+  xrepeat: 0,
+  opacity: 0.75
+},
+ga: {
+  'eventsToTrack': ['start', 'end', 'play', 'pause', 'fullscreen', 'error']
+},
+playerTrackerReporter: {
+  params:{
+    videoKey: 'public/inm/media/video/nt/2018/08/31/16828939/0/WhatsApp Video 2018-08-31 at 15.24.31'
+  },
+  playerShowTracking: false,
+  contentPlayTracking: true,
+  videoStartTracking: false
+},
+  }
+});
+player.ima({
+  id: 'player-1535738145240',
+  adLabel: 'Video Advertisement',
+  adTagUrl: 'https://pubads.g.doubleclick.net/gampad/ads?sz=400x300|640x480&iu=/116466607/IOL/Video&ciu_szs=300x250,300x600,728x90&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1'
+});
+
+
+
+
+    
+     John Ashatl, 27 fixing the damage done to his shop after it was burnt down by armed unknown men on Thursday in Kwadabeka. Video: Kwandokuhle Njoli
+    
+   
+   
+  
+  
+   
+  
+  
+   The attacks in Durban come after scores of shops in Soweto were looted by locals this week, allegedly over complaints that foreign 
+   traders were selling fake and expired products. More than 4 people were killed in Soweto lootings this week. 
+  
+  
+   
+  
+  
+   However,
+    Ashtal
+    said he did not sell fake products to his clients. He said he had to get up and start working again to feed his family.
+  
+  
+   
+  
+  
+   "I have a daughter and she is South African, I cannot leave my child, because who will take care of her and her mother if I leave?" 
+  
+  
+   
+    
+   
+   
+    SUNDAY TRIBUNE
