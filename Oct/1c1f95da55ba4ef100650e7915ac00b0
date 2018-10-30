@@ -1,0 +1,102 @@
+Durban - National health minister, Dr Aaron Motsoaledi and MEC for health in KwaZulu-Natal, Dr Sibongiseni Dhlomo, today launched the National Cancer Campaign in Pietermaritzburg. 
+The campaign is part of government’s plan to accelerate access to health services with special focus on cancer treatment. 
+
+Edendale Hospital manager, Nelisike Xaba received a machine used to detect cancer, on behalf of the hospital. 
+
+
+ 
+
+
+
+
+
+
+
+{
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "name": "'IOL video'",
+    "description": "'IOL video'",
+    "thumbnailUrl": "'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public%2Finm%2Fmedia%2Fvideo%2F2018%2F10%2F30%2F51668288WhatsAppVideo20181030at13.20.38-00001.png'",
+    "uploadDate": "",
+    "duration": "'PT31.652S'",
+    "publisher": {
+            "@type": "Organization",
+            "name": "'IOL'",
+            "logo": {
+                    "@type": "ImageObject",
+                    "url": "'//imigino-cdn.iol.co.za/logos/ivoLogo.png'"
+            }
+    },
+    "contentUrl": "'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/video/2018/10/30/51668288WhatsAppVideo20181030at13.20.38.mp4'",
+    "embedUrl": "'//media-service-prod.eu-west-1.elasticbeanstalk.com/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvLzIwMTgvMTAvMzAvNTE2NjgyODhXaGF0c0FwcFZpZGVvMjAxODEwMzBhdDEzLjIwLjM4Lm1wNCZzdGFuZEFsb25lPXRydWU='"
+}
+
+
+
+
+
+
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-17710838-1', 'auto');
+
+
+
+  
+   
+  
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    supports HTML5 video
+  
+
+
+var player = videojs('player-1540908022515', {
+  plugins: {
+    embed:{
+  embeddable: true,
+  location: '//media-service-prod.eu-west-1.elasticbeanstalk.com/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvLzIwMTgvMTAvMzAvNTE2NjgyODhXaGF0c0FwcFZpZGVvMjAxODEwMzBhdDEzLjIwLjM4Lm1wNCZzdGFuZEFsb25lPXRydWU='
+},
+watermark: {
+  file: '//imigino-cdn.iol.co.za/logos/ivoLogo.png',
+  xpos: 0,
+  ypos: 0,
+  xrepeat: 0,
+  opacity: 0.75
+},
+ga: {
+  'eventsToTrack': ['start', 'end', 'play', 'pause', 'fullscreen', 'error']
+},
+playerTrackerReporter: {
+  params:{
+    videoKey: 'public/inm/media/video/2018/10/30/51668288WhatsAppVideo20181030at13.20.38'
+  },
+  playerShowTracking: false,
+  contentPlayTracking: true,
+  videoStartTracking: false
+},
+  }
+});
+player.ima({
+  id: 'player-1540908022515',
+  adLabel: 'Video Advertisement',
+  adTagUrl: 'https://pubads.g.doubleclick.net/gampad/ads?sz=400x300|640x480&iu=/116466607/IOL/Video&ciu_szs=300x250,300x600,728x90&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1'
+});
+
+
+
+
+
+Cancer is a growing national health and socio-economic concern in the country and the campaign is in line with President Cyril Ramaphosa’s announcement in his State of the Nation address this year that a cancer campaign, similar to the HIV counseling and testing campaign would be launched in the financial year. 
+The department said the objectives of the campaign include creating awareness and educating the general public, patients, families and healthcare workers about various types of cancers together with risk factors, prevention methods, treatment services available and support during survivorship. 
+The department said the campaign will be implemented in a phased approach. Many cancers are preventable and can be successfully treated through early detection and timeous treatment, which reduces unnecessary suffering and financial strain on patients, family and the health system. 
+
+The Mercury
