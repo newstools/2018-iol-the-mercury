@@ -1,0 +1,105 @@
+Durban - STRONG winds blew away more than hats on Tuesday, with trees being sent crushing to the ground around Tuesday afternoon in Durban.
+A huge tree on Clarence Road in Morningside fell on the road, blocking the access towards the upper Berea area and Durban Girls College area. It went down dragging an electric cable with it, which appeared to be live.
+The Berry and Jones families were on call at the scene, having noticed the fallen tree on their way home from the Maris Stella School where their children attend.
+Kenneth Jones said they raced to the scene with his daughter Allegra, along with Lauren Berry and her daughter Cianna. 
+“This usually happens more in Glenwood, our trees are too posh to get pulled down by the wind,” the mother joked. 
+Kenneth said the strong winds made his car shake and said they brought the children to play on the tree when they saw it in the middle of the road. 
+
+  
+
+
+
+
+
+
+
+{
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "name": "'IOL video'",
+    "description": "'IOL video'",
+    "thumbnailUrl": "'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public%2Finm%2Fmedia%2Fvideo%2Fiol%2F2018%2F10%2F30%2F17706918%2F0%2FWhatsApp+Video+2018-10-30+at+19.10.57-00001.png'",
+    "uploadDate": "",
+    "duration": "'PT1M0.9S'",
+    "publisher": {
+            "@type": "Organization",
+            "name": "'IOL'",
+            "logo": {
+                    "@type": "ImageObject",
+                    "url": "'//imigino-cdn.iol.co.za/logos/ivoLogo.png'"
+            }
+    },
+    "contentUrl": "'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/video/iol/2018/10/30/17706918/0/WhatsApp Video 2018-10-30 at 19.10.57.mp4'",
+    "embedUrl": "'//media-service-prod.eu-west-1.elasticbeanstalk.com/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvL2lvbC8yMDE4LzEwLzMwLzE3NzA2OTE4LzAvV2hhdHNBcHAgVmlkZW8gMjAxOC0xMC0zMCBhdCAxOS4xMC41Ny5tcDQmc3RhbmRBbG9uZT10cnVl'"
+}
+
+
+
+
+
+
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-17710838-1', 'auto');
+
+
+
+  
+   
+  
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    supports HTML5 video
+  
+
+
+var player = videojs('player-1540921943547', {
+  plugins: {
+    embed:{
+  embeddable: true,
+  location: '//media-service-prod.eu-west-1.elasticbeanstalk.com/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvL2lvbC8yMDE4LzEwLzMwLzE3NzA2OTE4LzAvV2hhdHNBcHAgVmlkZW8gMjAxOC0xMC0zMCBhdCAxOS4xMC41Ny5tcDQmc3RhbmRBbG9uZT10cnVl'
+},
+watermark: {
+  file: '//imigino-cdn.iol.co.za/logos/ivoLogo.png',
+  xpos: 0,
+  ypos: 0,
+  xrepeat: 0,
+  opacity: 0.75
+},
+ga: {
+  'eventsToTrack': ['start', 'end', 'play', 'pause', 'fullscreen', 'error']
+},
+playerTrackerReporter: {
+  params:{
+    videoKey: 'public/inm/media/video/iol/2018/10/30/17706918/0/WhatsApp Video 2018-10-30 at 19.10.57'
+  },
+  playerShowTracking: false,
+  contentPlayTracking: true,
+  videoStartTracking: false
+},
+  }
+});
+player.ima({
+  id: 'player-1540921943547',
+  adLabel: 'Video Advertisement',
+  adTagUrl: 'https://pubads.g.doubleclick.net/gampad/ads?sz=400x300|640x480&iu=/116466607/IOL/Video&ciu_szs=300x250,300x600,728x90&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1'
+});
+
+
+
+
+  
+   The Berry and Jones families talk about the tree that fell on a street in their neighbourhood. Video: Sihle Mlambo
+  
+ 
+Around the Morningside area, the Clarence Primary School was also affected, with awning around the school grounds damaged by the strong winds.
+A tree collapsed at a house on Botanic Gardens Road, breaking the fence.
+The South African Weather Service had warned of severe winds on Tuesday, rising to 65km/h. 
+Daily News
