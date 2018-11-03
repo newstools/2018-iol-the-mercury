@@ -1,0 +1,130 @@
+Durban - South Africa’s notorious taxi industry provides a recruitment pool from where hit men can be hired.
+That is according to UCT research titled “Hits and Assassinations in South Africa” and the assertion played itself out in two South African courts this week.
+
+In the Durban Magistrate’s Court, hitman and Gauteng taxi driver Ayanda Shezi, 34, was sentenced to life imprisonment for killing Rossburgh garage owner Kidesh Ramjettan.
+A video clip of the execution of Ramjettan was widely circulated on social media after his murder in August.
+Magistrate Samuel Luthuli brushed aside requests by Shezi’s lawyer, Sanjeev Jaglall, to consider a lesser sentence, taking into account that the accused made a confession, co-operated with the investigation, apologised to Ramjettan’s family and was a first offender.
+Related ArticlesKidesh Ramjettan alleged hitmen sent back to Westville prisonVideo: 'Who paid for the hit?' asks Ramjettan's familyBREAKING: Kidesh Ramjettan murder accused pleads guilty'Why I killed Kidesh Ramjettan'Ramjettan family still wants answersI killed Kidesh because I needed money for my aunt's funeral, says triggermanLife sentence for man who killed Kidesh RamjettanRamjettan’s family expect more arrestsKidesh Ramjettan murder accused back behind barsKidesh Ramjettan's family believe R300k reward secured arrestsBREAKING: Three arrested for murder of petrol station owner Kidesh RamjettanAlleged hitmen behind Kidesh Ramjettan murder arrested in GautengTaxi driver pleads guilty to Ramjettan murderMore charges for Kidesh Ramjettan accusedKidesh Ramjettan alleged hitmen sent back to Westville prisonVideo: 'Who paid for the hit?' asks Ramjettan's familyBREAKING: Kidesh Ramjettan murder accused pleads guilty'Why I killed Kidesh Ramjettan'1234567
+However, in passing sentence, the magistrate said: “The nature of this murder, being a contract murder and the brazen and careless manner in which it was carried out, far outweighs the fact that he pleaded guilty.”
+Shezi, whose traditional home is in Ulundi, was caught on closed circuit television footage walking up to Ramjettan and shooting him in the back of the head, then firing another shot at him after he had fallen, before casually walking away to a getaway car.
+WARNING: Video contains graphic content
+
+ 
+
+
+
+
+
+
+{
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "name": "'IOL video'",
+    "description": "'IOL video'",
+    "thumbnailUrl": "'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public%2Finm%2Fmedia%2Fvideo%2Fiol%2F2018%2F11%2F03%2F17759293%2F0%2FWhatsApp+Video+2018-09-27+at+13.35.22-00001.png'",
+    "uploadDate": "",
+    "duration": "'PT30.2S'",
+    "publisher": {
+            "@type": "Organization",
+            "name": "'IOL'",
+            "logo": {
+                    "@type": "ImageObject",
+                    "url": "'//imigino-cdn.iol.co.za/logos/ivoLogo.png'"
+            }
+    },
+    "contentUrl": "'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/video/iol/2018/11/03/17759293/0/WhatsApp Video 2018-09-27 at 13.35.22.mp4'",
+    "embedUrl": "'//media-service-prod.eu-west-1.elasticbeanstalk.com/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvL2lvbC8yMDE4LzExLzAzLzE3NzU5MjkzLzAvV2hhdHNBcHAgVmlkZW8gMjAxOC0wOS0yNyBhdCAxMy4zNS4yMi5tcDQmc3RhbmRBbG9uZT10cnVl'"
+}
+
+
+
+
+
+
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-17710838-1', 'auto');
+
+
+
+  
+  
+  
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    supports HTML5 video
+  
+
+
+var player = videojs('player-1541244683098', {
+  plugins: {
+    embed:{
+  embeddable: true,
+  location: '//media-service-prod.eu-west-1.elasticbeanstalk.com/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvL2lvbC8yMDE4LzExLzAzLzE3NzU5MjkzLzAvV2hhdHNBcHAgVmlkZW8gMjAxOC0wOS0yNyBhdCAxMy4zNS4yMi5tcDQmc3RhbmRBbG9uZT10cnVl'
+},
+watermark: {
+  file: '//imigino-cdn.iol.co.za/logos/ivoLogo.png',
+  xpos: 0,
+  ypos: 0,
+  xrepeat: 0,
+  opacity: 0.75
+},
+ga: {
+  'eventsToTrack': ['start', 'end', 'play', 'pause', 'fullscreen', 'error']
+},
+playerTrackerReporter: {
+  params:{
+    videoKey: 'public/inm/media/video/iol/2018/11/03/17759293/0/WhatsApp Video 2018-09-27 at 13.35.22'
+  },
+  playerShowTracking: false,
+  contentPlayTracking: true,
+  videoStartTracking: false
+},
+  }
+});
+player.ima({
+  id: 'player-1541244683098',
+  adLabel: 'Video Advertisement',
+  adTagUrl: 'https://pubads.g.doubleclick.net/gampad/ads?sz=400x300|640x480&iu=/116466607/IOL/Video&ciu_szs=300x250,300x600,728x90&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1'
+});
+
+
+
+
+ 
+  Durban businessman Kidesh Ramjettan was shot dead by an unknown man at a petrol station in Rossburgh, Durban.
+ 
+
+The murder had been planned in Johannesburg, where Shezi lived with his girlfriend and worked as a taxi driver earning R2000 a month, the court heard.
+He and two alleged accomplices travelled from Gauteng to Durban to carry out the hit, which involved a visit to Ramjettan’s garage so that he could be pointed out to Shezi.
+He was to earn R15 000 for the hit.
+
+ 
+ 
+  Umesh Balraj attended the sentencing of Ayanda Shezi, his brother’s killer. 
+ 
+
+Shezi’s trial was separated from that of the other two accused, Menziwa Mdaka and Zakhele “Sdi” Dubazane, who next appear in court on November 22.
+A third suspect, referred to in court as a suspected truck hijacker called Kimman, remains at large.
+It was also mentioned Kimman wanted Ramjettan dead because he could be a witness in a case against him. It was heard in court that Shezi was led to believe that Ramjettan needed to be removed for his involvement in “illegal activities”.
+
+Ramjettan’s brother, Anesh Balraj, said the family wanted the truth about the murder, saying what had happened so far in court was “just the tip of the iceberg”. Another brother, Umesh Bakraj, read out an impact statement in court, saying “our scars will never heal, for the rest of our lives”.
+Meanwhile, on Thursday, two men from KwaZulu-Natal, Sizwe Biyela, 31, and Nkosinathi Khumalo, 26, appeared in the Cape Town Magistrate’s Court charged with the murder of prominent defence advocate Pete Mihalik.
+Mihalik was shot in the head while dropping off his children at school.
+
+The motive behind Mihalik’s killing is unclear, with rumours it was a gang-related hit.
+However, yesterday at the launch of a SAPS anti-gang unit in the gang-ridden suburb of Hanover Park in Cape Town, national Police Minister Bheki Cele confirmed Mihalik’s death was related to taxi violence.
+“People should not be in a hurry to think this is gang related,” said Cele, adding that “hit men are hired to carry out a specific task. That can be dealt with through ordinary policing.”
+
+The UCT report on hits and assassinations which was released earlier this year, said that during research, “it emerged that taxi bosses in Gauteng often hire hitmen from KwaZulu-Natal (known as izinkabi) to carry out assassinations in taxi conflicts. They carry out the hit and disappear back to the rural obscurity of their province”.
+Describing the industry as having “generated a cadre of hitmen available for hire”, the report said izinkabi operating in KZN played a more powerful role as enforcers in the local taxi environment.
+When they needed money, they enforced their demands, such as extorting a taxi from a boss for whom they carried out a hit. This is said to be why hitmen emerged as taxi owners in their own right or as private security for the taxi industry.
+
+ Independent On Saturday
