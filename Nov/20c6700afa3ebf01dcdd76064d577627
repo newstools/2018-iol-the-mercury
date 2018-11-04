@@ -1,0 +1,177 @@
+Durban - The official opening of the 20th Durban Diwali Festival took place on Saturday evening at the old Drive-in site where hundreds of locals gathered. 
+ 
+ 
+  
+ 
+ 
+  Among the guests were IFP leader Prince Mangosuthu Buthelezi and businessman Vivian Reddy. 
+ 
+ 
+  
+ 
+ 
+  The president of the South African Hindu Maha Sabha, Ashwin Trikamjee, welcomed guests, with a special thanks to Buthelezi, who graced the first Diwali Festival at the Bay of Plenty two decades ago. 
+ 
+ 
+  
+ 
+ 
+  "He was here 20 years ago and is here 20 years later," said Trikamjee to applause.
+ 
+ 
+  
+ 
+ 
+  "The 20th year occassion has come so quickly. I can remember in 1998 when we planned this festival. Many said it won't work. But we took the plunge at the Durban Bay of Plenty and thousands turned up."
+ 
+ 
+  
+ 
+ 
+  Trikamjee said they moved onto bigger premises over the years, including the Blue Lagoon, until they settled at the Drive-in site a few years ago. 
+ 
+ 
+  
+ 
+ 
+  He said the festival did not only serve the Hindu community alone, but it had become an attraction for all South Africans.
+ 
+ 
+  
+ 
+ 
+  "This is social cohesion right on the ground."
+ 
+ 
+  
+ 
+ 
+  The chairperson of the CLR Commission, Thoko Mkhwanazi-Xaluva, said she hoped peace, tolerance and friendship united the country, adding "let the hate go away".
+ 
+ 
+  
+ 
+ 
+  "Don't entertain hate speech and hatred. If we entertain it, we will remain in the dark."
+ 
+ 
+  
+ 
+ 
+  Buthelezi, decked in eastern attire, rounded up proceedings, saying he felt a deep connection with the sabha. 
+ 
+ 
+  
+ 
+ 
+  "The sabha has had a long journey in South Africa. It was founded in the same year that my uncle Pixley Ka Seme founded the ANC." 
+ 
+ 
+  
+ 
+ 
+  He spoke about the importance of social cohesion and holding hands "across racial divides".
+ 
+ 
+  
+ 
+ 
+  
+   
+
+
+
+
+
+
+
+{
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "name": "'IOL video'",
+    "description": "'IOL video'",
+    "thumbnailUrl": "'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public%2Finm%2Fmedia%2Fvideo%2Fiol%2F2018%2F11%2F03%2F17762456%2F0%2FWhatsApp+Video+2018-11-03+at+20.09.36-00001.png'",
+    "uploadDate": "",
+    "duration": "'PT20.306S'",
+    "publisher": {
+            "@type": "Organization",
+            "name": "'IOL'",
+            "logo": {
+                    "@type": "ImageObject",
+                    "url": "'//imigino-cdn.iol.co.za/logos/ivoLogo.png'"
+            }
+    },
+    "contentUrl": "'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/video/iol/2018/11/03/17762456/0/WhatsApp Video 2018-11-03 at 20.09.36.mp4'",
+    "embedUrl": "'//media-service-prod.eu-west-1.elasticbeanstalk.com/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvL2lvbC8yMDE4LzExLzAzLzE3NzYyNDU2LzAvV2hhdHNBcHAgVmlkZW8gMjAxOC0xMS0wMyBhdCAyMC4wOS4zNi5tcDQmc3RhbmRBbG9uZT10cnVl'"
+}
+
+
+
+
+
+
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-17710838-1', 'auto');
+
+
+
+  
+   
+  
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    supports HTML5 video
+  
+
+
+var player = videojs('player-1541272964041', {
+  plugins: {
+    embed:{
+  embeddable: true,
+  location: '//media-service-prod.eu-west-1.elasticbeanstalk.com/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvL2lvbC8yMDE4LzExLzAzLzE3NzYyNDU2LzAvV2hhdHNBcHAgVmlkZW8gMjAxOC0xMS0wMyBhdCAyMC4wOS4zNi5tcDQmc3RhbmRBbG9uZT10cnVl'
+},
+watermark: {
+  file: '//imigino-cdn.iol.co.za/logos/ivoLogo.png',
+  xpos: 0,
+  ypos: 0,
+  xrepeat: 0,
+  opacity: 0.75
+},
+ga: {
+  'eventsToTrack': ['start', 'end', 'play', 'pause', 'fullscreen', 'error']
+},
+playerTrackerReporter: {
+  params:{
+    videoKey: 'public/inm/media/video/iol/2018/11/03/17762456/0/WhatsApp Video 2018-11-03 at 20.09.36'
+  },
+  playerShowTracking: false,
+  contentPlayTracking: true,
+  videoStartTracking: false
+},
+  }
+});
+player.ima({
+  id: 'player-1541272964041',
+  adLabel: 'Video Advertisement',
+  adTagUrl: 'https://pubads.g.doubleclick.net/gampad/ads?sz=400x300|640x480&iu=/116466607/IOL/Video&ciu_szs=300x250,300x600,728x90&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1'
+});
+
+
+
+
+   
+    IFP leader Mangosuthu Buthelezi enjoys the fireworks at the Diwali celebrations in Durban.
+   
+  
+  
+ 
+ 
+  The Post
