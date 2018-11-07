@@ -1,0 +1,107 @@
+Johannesburg - Remember when, back in September, South Africa's government absorbed what would have been increases of 28 cents a litre for petrol and 31 cents for diesel? 
+Now it appears to be payback time, as the projected petrol price decrease for November is no more, while the diesel price hike will be greater than had been expected.
+
+Month-end data from the Department of Energy had led us to believe that the price of petrol would have decreased by around 22 cents a litre in November, while diesel was heading for a 25 cent increase
+However, the energy department announced on Monday that the price of petrol would remain unchanged in November, while diesel would increase by 48 cents (500ppm) and 51 cents (50ppm), on Wednesday, November 7. The wholesale price of illuminating paraffin will rise by 28 cents.
+Thus motorists will still pay R16.85 a litre for 93 octane Unleaded and R17.08 for 95 Unleaded, with those at the coast paying R16.49 for 95.
+
+‘Slate levy’
+Although the Department of Energy has not provided full clarity on the matter, one could deduce that the “once off temporary intervention” that effectively absorbed September’s fuel price increase, is effectively being worked back into the fuel price calculation through a Slate Levy that’s been put in place to correct the aforementioned price imbalance.
+“The combined cumulative petrol and diesel Slate balances at the end of September 2018 amounted to a negative balance of R2.2 billion. In line with the provisions of the Self-Adjusting Slate Levy Mechanism, a Slate Levy of 21.92 c/l will have to be implemented,” the Department of Energy stated.
+
+Relief on the horizon?
+Should international oil prices remain at current levels and the local currency holds steady, South Africans could be looking at a petrol price decrease of over R1 and a diesel price cut of more than 50 cents - if the most recent daily fuel price data is anything to go by. There is however, a lot that can happen between now and the end of the month.
+Watch this space later in November for updates.
+
+ 
+
+
+
+
+
+
+
+{
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "name": "'IOL video'",
+    "description": "'IOL video'",
+    "thumbnailUrl": "'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public%2Finm%2Fmedia%2Fvideo%2F2018%2F11%2F05%2F60990921Entertainmentheading2-00001.png'",
+    "uploadDate": "",
+    "duration": "'PT51.28S'",
+    "publisher": {
+            "@type": "Organization",
+            "name": "'IOL'",
+            "logo": {
+                    "@type": "ImageObject",
+                    "url": "'//imigino-cdn.iol.co.za/logos/ivoLogo.png'"
+            }
+    },
+    "contentUrl": "'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/video/2018/11/05/60990921Entertainmentheading2.mp4'",
+    "embedUrl": "'//media-service-prod.eu-west-1.elasticbeanstalk.com/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvLzIwMTgvMTEvMDUvNjA5OTA5MjFFbnRlcnRhaW5tZW50aGVhZGluZzIubXA0JnN0YW5kQWxvbmU9dHJ1ZQ=='"
+}
+
+
+
+
+
+
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-17710838-1', 'auto');
+
+
+
+  
+   
+  
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    supports HTML5 video
+  
+
+
+var player = videojs('player-1541430643436', {
+  plugins: {
+    embed:{
+  embeddable: true,
+  location: '//media-service-prod.eu-west-1.elasticbeanstalk.com/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvLzIwMTgvMTEvMDUvNjA5OTA5MjFFbnRlcnRhaW5tZW50aGVhZGluZzIubXA0JnN0YW5kQWxvbmU9dHJ1ZQ=='
+},
+watermark: {
+  file: '//imigino-cdn.iol.co.za/logos/ivoLogo.png',
+  xpos: 0,
+  ypos: 0,
+  xrepeat: 0,
+  opacity: 0.75
+},
+ga: {
+  'eventsToTrack': ['start', 'end', 'play', 'pause', 'fullscreen', 'error']
+},
+playerTrackerReporter: {
+  params:{
+    videoKey: 'public/inm/media/video/2018/11/05/60990921Entertainmentheading2'
+  },
+  playerShowTracking: false,
+  contentPlayTracking: true,
+  videoStartTracking: false
+},
+  }
+});
+player.ima({
+  id: 'player-1541430643436',
+  adLabel: 'Video Advertisement',
+  adTagUrl: 'https://pubads.g.doubleclick.net/gampad/ads?sz=400x300|640x480&iu=/116466607/IOL/Video&ciu_szs=300x250,300x600,728x90&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1'
+});
+
+
+
+
+
+IOL Motoring
