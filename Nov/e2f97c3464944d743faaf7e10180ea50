@@ -1,0 +1,122 @@
+Johannesburg - Mounds of rotting garbage lie piled on the streets of Fordsburg’s business district. The distinct smell of urine and rubbish linger in the air in the hub of commercial and retail activity. Vagrants occupy most corners.
+The suburb, a haven of Middle Eastern and Indian culture, food and merchandise, is unrecognisable from its heyday.These days, restaurants are nearly empty and owners battle to attract any customers to their stores.
+
+On Fordsburg’s most popular street, Mint Road, several well-known restaurants have been forced to close because business has fallen sharply.Business people tell how Fordsburg has become a haven for criminals, synonymous with pickpocketing, muggings, hijackings, smash-and-grabs, and violent robberies.
+Last weekend, a man was shot and killed in the early hours in an apparent hijacking. While business owners recently employed a private security company to help respond to the escalating levels of crime, business owners tell of their struggles.
+ 
+Muaaz Randera, the owner of chicken franchise Mochachos on Mint Road, says his business has suffered from rampant crime.“People don’t feel safe in Fordsburg any longer. It’s not just the hijackings and robberies people are worried about, but the petty crime, which happens on a daily basis. 
+
+ 
+ 
+  On Fordsburg’s most popular street, Mint Road, several well-known restaurants have been forced to close because business has fallen sharply. Picture: Rabbie Serumula
+  
+ 
+
+“You cannot walk in the street without someone trying to snatch your phone or your wallet.“If you stop at a robot and you are driving in a bakkie with goods at the back, they hold you at gunpoint and unload your goods. It’s ridiculous.“People say that Fordsburg is going down because there is not enough parking, or there isn’t a big enough variety of stores. 
+“That’s not true. Fordsburg has been here for so many years. “What’s changed? The parking situation never changed, nothing changed. The only problem is the crime.”Randera and several other business owners recently created a revival forum to address issues such as crime as they say they have battled to get any help from the police or the council. 
+“On many occasions we have engaged with the police and the council to ask them for assistance, but let’s be honest, it’s impossible to get help from them,” says Randera, who is now considering selling his store.
+
+Down the road at popular burger joint Wimpy, manager Itumeleng Mokhothu reveals he is “heartbroken” to see what Fordsburg has become.“It’s a big shame what’s happening. Not only for the local people, but also for those people who would travel a distance to come and spend their weekends here.
+“Fordsburg was the place to go to. Four or five years ago, if you had come on a weekend, you wouldn’t be able to even walk properly because it was so busy. There was a great atmosphere, families used to come in their numbers. Now, it’s all gone.”
+
+ 
+
+
+
+
+
+
+
+{
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "name": "'IOL video'",
+    "description": "'IOL video'",
+    "thumbnailUrl": "'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public%2Finm%2Fmedia%2Fvideo%2Fiol%2F2018%2F11%2F10%2F17849237%2F0%2FSequence+01-00001.png'",
+    "uploadDate": "",
+    "duration": "'PT2M1.24S'",
+    "publisher": {
+            "@type": "Organization",
+            "name": "'IOL'",
+            "logo": {
+                    "@type": "ImageObject",
+                    "url": "'//imigino-cdn.iol.co.za/logos/ivoLogo.png'"
+            }
+    },
+    "contentUrl": "'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/video/iol/2018/11/10/17849237/0/Sequence 01.mp4'",
+    "embedUrl": "'//media-service-prod.eu-west-1.elasticbeanstalk.com/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvL2lvbC8yMDE4LzExLzEwLzE3ODQ5MjM3LzAvU2VxdWVuY2UgMDEubXA0JnN0YW5kQWxvbmU9dHJ1ZQ=='"
+}
+
+
+
+
+
+
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-17710838-1', 'auto');
+
+
+
+  
+   
+  
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    supports HTML5 video
+  
+
+
+var player = videojs('player-1541846232902', {
+  plugins: {
+    embed:{
+  embeddable: true,
+  location: '//media-service-prod.eu-west-1.elasticbeanstalk.com/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvL2lvbC8yMDE4LzExLzEwLzE3ODQ5MjM3LzAvU2VxdWVuY2UgMDEubXA0JnN0YW5kQWxvbmU9dHJ1ZQ=='
+},
+watermark: {
+  file: '//imigino-cdn.iol.co.za/logos/ivoLogo.png',
+  xpos: 0,
+  ypos: 0,
+  xrepeat: 0,
+  opacity: 0.75
+},
+ga: {
+  'eventsToTrack': ['start', 'end', 'play', 'pause', 'fullscreen', 'error']
+},
+playerTrackerReporter: {
+  params:{
+    videoKey: 'public/inm/media/video/iol/2018/11/10/17849237/0/Sequence 01'
+  },
+  playerShowTracking: false,
+  contentPlayTracking: true,
+  videoStartTracking: false
+},
+  }
+});
+player.ima({
+  id: 'player-1541846232902',
+  adLabel: 'Video Advertisement',
+  adTagUrl: 'https://pubads.g.doubleclick.net/gampad/ads?sz=400x300|640x480&iu=/116466607/IOL/Video&ciu_szs=300x250,300x600,728x90&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1'
+});
+
+
+
+
+ 
+  Video: Rabbie Serumula
+  
+ 
+
+Rashid Ebrahim has run his business, Divine Bakery, for the past 18years on Mint Road. While crime is “horrific”, it is impossible for him to pack up and leave, he says. “I put all my money into this business and I watched it grow over the years. It’s the only thing I know.
+“Not everyone can just pack up and leave. Some of us owners have been here for more than 15 years. This is our livelihoods. There is nowhere else to go.”Mohammed Baig, who owns the Reliable Health Care store and has operated in Fordsburg’s business district for the past 15 years, reckons it has lost its identity. 
+“When I started trading in Fordsburg all those years back I would be able to freely walk through the streets without a worry.“It was peaceful and we barely had any crime. 
+
+This is the place where friends and relatives met one another. It was a family place. But slowly dynamics changed and it’s become a playground for criminals.” 
+ The Saturday Star
