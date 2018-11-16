@@ -1,0 +1,204 @@
+Durban - Former President Jacob Zuma said on Friday if South Africans do not vote for the ruling African National Congress (ANC), the country will be taken away from the people after his party fought so much for freedom.
+Zuma was addressing hundreds of ANC supporters and community members at the Pinetown bus terminal and taxi rank, where he was leading an early morning voter-registration awareness and campaigning for the ANC in the upcoming May 2019 general elections.
+
+"We are here to remind everybody that next year there is an election. The vote is the one that gives the ANC power to govern the country, to govern because it fought for it, and to protect it from damage because the ANC is the one that fought for this country," Zuma said.
+"Everybody must vote for the ANC. If you do not do that this country will be taken away by other people. Our power is the vote."
+Zuma also reminded ANC supporters to attend the party's 106th birthday celebrations which will be held at the Moses Mabhida Stadium in Durban on 12 January, before signing off with his signature "Mshini Wami".
+
+The former president was accompanied by ANC provincial chairperson Sihle Zikalala and eThekwini Mayor Zandile Gumede.
+
+ 
+
+
+
+
+
+
+
+{
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "name": "'IOL video'",
+    "description": "'IOL video'",
+    "thumbnailUrl": "'https://cdn.africannewsagency.com/public%2Fana%2Fmedia%2Fvideo%2Fmana%2F2018%2F11%2F16%2F8042833%2F0%2FVID-20181116-WA0005.png'",
+    "uploadDate": "",
+    "duration": "'PT42.081S'",
+    "publisher": {
+            "@type": "Organization",
+            "name": "'IOL'",
+            "logo": {
+                    "@type": "ImageObject",
+                    "url": "'//imigino-cdn.iol.co.za/logos/ivoLogo.png'"
+            }
+    },
+    "contentUrl": "'https://cdn.africannewsagency.com/public/ana/media/video/mana/2018/11/16/8042833/0/VID-20181116-WA0005.mp4'",
+    "embedUrl": "'//media-service-prod.eu-west-1.elasticbeanstalk.com/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2Nkbi5hZnJpY2FubmV3c2FnZW5jeS5jb20vcHVibGljL2FuYS9tZWRpYS92aWRlby9tYW5hLzIwMTgvMTEvMTYvODA0MjgzMy8wL1ZJRC0yMDE4MTExNi1XQTAwMDUubXA0JnN0YW5kQWxvbmU9dHJ1ZQ=='"
+}
+
+
+
+
+
+
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-17710838-1', 'auto');
+
+
+
+  
+   
+  
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    supports HTML5 video
+  
+
+
+var player = videojs('player-1542351998552', {
+  plugins: {
+    embed:{
+  embeddable: true,
+  location: '//media-service-prod.eu-west-1.elasticbeanstalk.com/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2Nkbi5hZnJpY2FubmV3c2FnZW5jeS5jb20vcHVibGljL2FuYS9tZWRpYS92aWRlby9tYW5hLzIwMTgvMTEvMTYvODA0MjgzMy8wL1ZJRC0yMDE4MTExNi1XQTAwMDUubXA0JnN0YW5kQWxvbmU9dHJ1ZQ=='
+},
+watermark: {
+  file: '//imigino-cdn.iol.co.za/logos/ivoLogo.png',
+  xpos: 0,
+  ypos: 0,
+  xrepeat: 0,
+  opacity: 0.75
+},
+ga: {
+  'eventsToTrack': ['start', 'end', 'play', 'pause', 'fullscreen', 'error']
+},
+playerTrackerReporter: {
+  params:{
+    videoKey: 'public/ana/media/video/mana/2018/11/16/8042833/0/VID-20181116-WA0005'
+  },
+  playerShowTracking: false,
+  contentPlayTracking: true,
+  videoStartTracking: false
+},
+  }
+});
+player.ima({
+  id: 'player-1542351998552',
+  adLabel: 'Video Advertisement',
+  adTagUrl: 'https://pubads.g.doubleclick.net/gampad/ads?sz=400x300|640x480&iu=/116466607/IOL/Video&ciu_szs=300x250,300x600,728x90&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1'
+});
+
+
+
+
+ 
+  Video: African News Agency (ANA)
+ 
+
+ 
+
+
+
+
+
+
+
+{
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "name": "'IOL video'",
+    "description": "'IOL video'",
+    "thumbnailUrl": "'https://cdn.africannewsagency.com/public%2Fana%2Fmedia%2Fvideo%2Fmana%2F2018%2F11%2F16%2F8042833%2F0%2FVID-20181116-WA0004.png'",
+    "uploadDate": "",
+    "duration": "'PT57.149S'",
+    "publisher": {
+            "@type": "Organization",
+            "name": "'IOL'",
+            "logo": {
+                    "@type": "ImageObject",
+                    "url": "'//imigino-cdn.iol.co.za/logos/ivoLogo.png'"
+            }
+    },
+    "contentUrl": "'https://cdn.africannewsagency.com/public/ana/media/video/mana/2018/11/16/8042833/0/VID-20181116-WA0004.mp4'",
+    "embedUrl": "'//media-service-prod.eu-west-1.elasticbeanstalk.com/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2Nkbi5hZnJpY2FubmV3c2FnZW5jeS5jb20vcHVibGljL2FuYS9tZWRpYS92aWRlby9tYW5hLzIwMTgvMTEvMTYvODA0MjgzMy8wL1ZJRC0yMDE4MTExNi1XQTAwMDQubXA0JnN0YW5kQWxvbmU9dHJ1ZQ=='"
+}
+
+
+
+
+
+
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-17710838-1', 'auto');
+
+
+
+  
+   
+  
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    supports HTML5 video
+  
+
+
+var player = videojs('player-1542351998705', {
+  plugins: {
+    embed:{
+  embeddable: true,
+  location: '//media-service-prod.eu-west-1.elasticbeanstalk.com/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2Nkbi5hZnJpY2FubmV3c2FnZW5jeS5jb20vcHVibGljL2FuYS9tZWRpYS92aWRlby9tYW5hLzIwMTgvMTEvMTYvODA0MjgzMy8wL1ZJRC0yMDE4MTExNi1XQTAwMDQubXA0JnN0YW5kQWxvbmU9dHJ1ZQ=='
+},
+watermark: {
+  file: '//imigino-cdn.iol.co.za/logos/ivoLogo.png',
+  xpos: 0,
+  ypos: 0,
+  xrepeat: 0,
+  opacity: 0.75
+},
+ga: {
+  'eventsToTrack': ['start', 'end', 'play', 'pause', 'fullscreen', 'error']
+},
+playerTrackerReporter: {
+  params:{
+    videoKey: 'public/ana/media/video/mana/2018/11/16/8042833/0/VID-20181116-WA0004'
+  },
+  playerShowTracking: false,
+  contentPlayTracking: true,
+  videoStartTracking: false
+},
+  }
+});
+player.ima({
+  id: 'player-1542351998705',
+  adLabel: 'Video Advertisement',
+  adTagUrl: 'https://pubads.g.doubleclick.net/gampad/ads?sz=400x300|640x480&iu=/116466607/IOL/Video&ciu_szs=300x250,300x600,728x90&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1'
+});
+
+
+
+
+ 
+  Video: African News Agency (ANA)
+ 
+
+
+Zikalala told the party supporters and those in attendance that about 80 buses will be provided to ferry them to the stadium for the January 8 Statement.
+"We must all come out in numbers on the 12th of January to celebrate the anniversary of the birth of the African National Congress. Those who have not registered to vote and those who have not checked if they appear on the voters roll, they must verify their status and check their addresses," Zikalala said. 
+
+"We, as volunteers of the ANC, must ensure that we work towards the unity of the ANC so that the ANC wins this election." 
+As Zuma and his convey departed one of the cars bumped into another leaving it with a damaged bumper.
+African News Agency/ANA
