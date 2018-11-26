@@ -1,0 +1,198 @@
+Durban - A police officer is facing two counts of murder after he shot his estranged wife and her brother inside the O Regional Court on Monday. 
+The man allegedly entered the courtroom after showing guards his identification card. This, investigators believe, is how he managed to enter the courtroom with his state-issued firearm. 
+
+Police spokesperson, Colonel Thembeka Mbele, said at 11am the court adjourned. 
+“Just before court was about to start, the man fired shots. Two people died at the scene. The suspect turned the gun on himself. He did not die and was rushed to hospital for medical attention,” Mbele said. 
+
+ 
+
+
+
+
+
+
+
+{
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "name": "'IOL video'",
+    "description": "'IOL video'",
+    "thumbnailUrl": "'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public%2Finm%2Fmedia%2Fvideo%2Fiol%2F2018%2F11%2F26%2F18269297%2F1%2FPart+1-00001.png'",
+    "uploadDate": "",
+    "duration": "'PT39.266S'",
+    "publisher": {
+            "@type": "Organization",
+            "name": "'IOL'",
+            "logo": {
+                    "@type": "ImageObject",
+                    "url": "'//imigino-cdn.iol.co.za/logos/ivoLogo.png'"
+            }
+    },
+    "contentUrl": "'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/video/iol/2018/11/26/18269297/1/Part 1.mp4'",
+    "embedUrl": "'//media-service-prod.eu-west-1.elasticbeanstalk.com/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvL2lvbC8yMDE4LzExLzI2LzE4MjY5Mjk3LzEvUGFydCAxLm1wNCZzdGFuZEFsb25lPXRydWU='"
+}
+
+
+
+
+
+
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-17710838-1', 'auto');
+
+
+
+  
+   
+  
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    supports HTML5 video
+  
+
+
+var player = videojs('player-1543237555478', {
+  plugins: {
+    embed:{
+  embeddable: true,
+  location: '//media-service-prod.eu-west-1.elasticbeanstalk.com/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvL2lvbC8yMDE4LzExLzI2LzE4MjY5Mjk3LzEvUGFydCAxLm1wNCZzdGFuZEFsb25lPXRydWU='
+},
+watermark: {
+  file: '//imigino-cdn.iol.co.za/logos/ivoLogo.png',
+  xpos: 0,
+  ypos: 0,
+  xrepeat: 0,
+  opacity: 0.75
+},
+ga: {
+  'eventsToTrack': ['start', 'end', 'play', 'pause', 'fullscreen', 'error']
+},
+playerTrackerReporter: {
+  params:{
+    videoKey: 'public/inm/media/video/iol/2018/11/26/18269297/1/Part 1'
+  },
+  playerShowTracking: false,
+  contentPlayTracking: true,
+  videoStartTracking: false
+},
+  }
+});
+player.ima({
+  id: 'player-1543237555478',
+  adLabel: 'Video Advertisement',
+  adTagUrl: 'https://pubads.g.doubleclick.net/gampad/ads?sz=400x300|640x480&iu=/116466607/IOL/Video&ciu_szs=300x250,300x600,728x90&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1'
+});
+
+
+
+
+ 
+  KZN SAPS spokesperson, Colonel Thembeka Mbele, speaking to media outside the Durban Magistrate's Court on Monday. Video: Karen Singh
+ 
+
+Mbele, said police officials attended to the scene but she could not divulge further information as the investigation was still at a sensitive stage. 
+She confirmed that the policeman will be charged with two counts of murder. 
+
+ 
+
+
+
+
+
+
+
+{
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "name": "'IOL video'",
+    "description": "'IOL video'",
+    "thumbnailUrl": "'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public%2Finm%2Fmedia%2Fvideo%2Fiol%2F2018%2F11%2F26%2F18269297%2F1%2FPart+2-00001.png'",
+    "uploadDate": "",
+    "duration": "'PT31.3S'",
+    "publisher": {
+            "@type": "Organization",
+            "name": "'IOL'",
+            "logo": {
+                    "@type": "ImageObject",
+                    "url": "'//imigino-cdn.iol.co.za/logos/ivoLogo.png'"
+            }
+    },
+    "contentUrl": "'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/video/iol/2018/11/26/18269297/1/Part 2.mp4'",
+    "embedUrl": "'//media-service-prod.eu-west-1.elasticbeanstalk.com/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvL2lvbC8yMDE4LzExLzI2LzE4MjY5Mjk3LzEvUGFydCAyLm1wNCZzdGFuZEFsb25lPXRydWU='"
+}
+
+
+
+
+
+
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-17710838-1', 'auto');
+
+
+
+  
+   
+  
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    supports HTML5 video
+  
+
+
+var player = videojs('player-1543237555413', {
+  plugins: {
+    embed:{
+  embeddable: true,
+  location: '//media-service-prod.eu-west-1.elasticbeanstalk.com/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvL2lvbC8yMDE4LzExLzI2LzE4MjY5Mjk3LzEvUGFydCAyLm1wNCZzdGFuZEFsb25lPXRydWU='
+},
+watermark: {
+  file: '//imigino-cdn.iol.co.za/logos/ivoLogo.png',
+  xpos: 0,
+  ypos: 0,
+  xrepeat: 0,
+  opacity: 0.75
+},
+ga: {
+  'eventsToTrack': ['start', 'end', 'play', 'pause', 'fullscreen', 'error']
+},
+playerTrackerReporter: {
+  params:{
+    videoKey: 'public/inm/media/video/iol/2018/11/26/18269297/1/Part 2'
+  },
+  playerShowTracking: false,
+  contentPlayTracking: true,
+  videoStartTracking: false
+},
+  }
+});
+player.ima({
+  id: 'player-1543237555413',
+  adLabel: 'Video Advertisement',
+  adTagUrl: 'https://pubads.g.doubleclick.net/gampad/ads?sz=400x300|640x480&iu=/116466607/IOL/Video&ciu_szs=300x250,300x600,728x90&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1'
+});
+
+
+
+
+ 
+  KZN SAPS spokesperson, Colonel Thembeka Mbele, speaking to media outside the Durban Magistrate's Court on Monday. Video: Karen Singh
+ 
+
+The Mercury
