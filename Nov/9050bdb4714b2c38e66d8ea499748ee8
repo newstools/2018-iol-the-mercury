@@ -1,0 +1,108 @@
+Durban - In commemoration of World Children's Day, which takes place in November, King Edward VIII Hospital, in partnership with the Lamees Ryan Foundation, hosted a Christmas party for 50 underprivileged special needs children at the hospital's Jubilee Hall on Thursday.
+The Lamees Ryan Foundation was founded after three-year-old Lamees - who was diagnosed with cerebral palsy, among other disabilities - died in 2016.
+
+Natasha Ryan, the grandmother of Lamees and founder of the foundation, said that when her granddaughter was in King Edward VIII Hospital, her family saw the challenges children with disabilities face daily.
+“Because my granddaughter had such an impact on our lives, we decided to help other children and make a difference in their lives,” said Ryan.
+
+
+ 
+
+
+
+
+
+
+
+{
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "name": "'IOL video'",
+    "description": "'IOL video'",
+    "thumbnailUrl": "'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public%2Finm%2Fmedia%2Fvideo%2F2018%2F11%2F30%2F37756735WhatsAppVideo20181130at10.16.39-00001.png'",
+    "uploadDate": "",
+    "duration": "'PT2M35.417S'",
+    "publisher": {
+            "@type": "Organization",
+            "name": "'IOL'",
+            "logo": {
+                    "@type": "ImageObject",
+                    "url": "'//imigino-cdn.iol.co.za/logos/ivoLogo.png'"
+            }
+    },
+    "contentUrl": "'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/video/2018/11/30/37756735WhatsAppVideo20181130at10.16.39.mp4'",
+    "embedUrl": "'//media-service-prod.eu-west-1.elasticbeanstalk.com/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvLzIwMTgvMTEvMzAvMzc3NTY3MzVXaGF0c0FwcFZpZGVvMjAxODExMzBhdDEwLjE2LjM5Lm1wNCZzdGFuZEFsb25lPXRydWU='"
+}
+
+
+
+
+
+
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-17710838-1', 'auto');
+
+
+
+  
+   
+  
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    supports HTML5 video
+  
+
+
+var player = videojs('player-1543579213310', {
+  plugins: {
+    embed:{
+  embeddable: true,
+  location: '//media-service-prod.eu-west-1.elasticbeanstalk.com/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvLzIwMTgvMTEvMzAvMzc3NTY3MzVXaGF0c0FwcFZpZGVvMjAxODExMzBhdDEwLjE2LjM5Lm1wNCZzdGFuZEFsb25lPXRydWU='
+},
+watermark: {
+  file: '//imigino-cdn.iol.co.za/logos/ivoLogo.png',
+  xpos: 0,
+  ypos: 0,
+  xrepeat: 0,
+  opacity: 0.75
+},
+ga: {
+  'eventsToTrack': ['start', 'end', 'play', 'pause', 'fullscreen', 'error']
+},
+playerTrackerReporter: {
+  params:{
+    videoKey: 'public/inm/media/video/2018/11/30/37756735WhatsAppVideo20181130at10.16.39'
+  },
+  playerShowTracking: false,
+  contentPlayTracking: true,
+  videoStartTracking: false
+},
+  }
+});
+player.ima({
+  id: 'player-1543579213310',
+  adLabel: 'Video Advertisement',
+  adTagUrl: 'https://pubads.g.doubleclick.net/gampad/ads?sz=400x300|640x480&iu=/116466607/IOL/Video&ciu_szs=300x250,300x600,728x90&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1'
+});
+
+
+
+
+
+The children received gifts that included clothing, toys and hygiene products, while food hampers were handed to their parents.
+Those children who were not able to leave their hospital beds for the party were also given party packs and lunch.
+Ryan said the foundation aimed to educate and empower the parents of children with special needs.
+
+She said the parents should not lose hope.
+“Your children are special to you. God has given them to you for a reason, so pay attention to them. Take extra care and they will thrive and do better,” she said.
+King Edward VIII Hospital chief executive Dr Mandla Mazizi said a child was a child, irrespective of his or her physical or mental disposition.
+
+“Especially at this time of the year, it gives us a lot of pleasure to be able to do something for children, as we are also about to celebrate Christmas,” he said.
+The Mercury
