@@ -1,0 +1,117 @@
+Cape Town - Yanga Sobetwa, the 2018 Idols winner, has been announced as the latest addition to the Huawei KDay line-up.
+The event, which takes place on 2 March 2019, features some of South Africa’s biggest stars including: Mi Casa, Goodluck, Craig Lucas, Kurt Darren, Lady Zamar, Youngsta CPT, The Kiffness, DJ Kent, Majozi, Pascal & Pearce ft. Jethro Tait, Doctor Victor and the Rasta Rebels, Timo ODV, Jamali and Chad Saaiman.
+
+Yanga who wowed South Africa during her performance on the reality show was surprised with the announcement on Cape Town’s biggest breakfast show, Kfm Mornings with Darren, Sherlin and Sibs on Thursday.
+
+ 
+ 
+  Yanga Sobetwa. Picture: Armand Hough/African News Agency (ANA)
+ 
+
+“Yanga’s vocal prowess is unmatched, and she is loved by the people Cape. We could not think of a more fitting addition to the line-up, and can’t wait for her to impress the more than 15 000 Capetonians who will attend the city’s premier music event,” said Kfm 94.5 Programming Manager, Stephen Werner.
+Werner added: “Yanga is part of Cape Town’s musical triple threat along with Craig Lucas and Paxton, who have both previously set the Huawei KDay stage on fire. We celebrated Yanga’s announcement with a special festive performance by the trio, and will continue to support the Cape’s winning melodic trinity through their music careers”.
+
+ 
+
+
+
+
+
+
+
+{
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "name": "'IOL video'",
+    "description": "'IOL video'",
+    "thumbnailUrl": "'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public%2Finm%2Fmedia%2Fvideo%2Fiol%2F2018%2F12%2F13%2F18493000%2F0%2FWhatsApp+Video+2018-12-13+at+10.17.22-00001.png'",
+    "uploadDate": "",
+    "duration": "'PT55.991S'",
+    "publisher": {
+            "@type": "Organization",
+            "name": "'IOL'",
+            "logo": {
+                    "@type": "ImageObject",
+                    "url": "'//imigino-cdn.iol.co.za/logos/ivoLogo.png'"
+            }
+    },
+    "contentUrl": "'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/video/iol/2018/12/13/18493000/0/WhatsApp Video 2018-12-13 at 10.17.22.mp4'",
+    "embedUrl": "'//media-service-prod.eu-west-1.elasticbeanstalk.com/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvL2lvbC8yMDE4LzEyLzEzLzE4NDkzMDAwLzAvV2hhdHNBcHAgVmlkZW8gMjAxOC0xMi0xMyBhdCAxMC4xNy4yMi5tcDQmc3RhbmRBbG9uZT10cnVl'"
+}
+
+
+
+
+
+
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-17710838-1', 'auto');
+
+
+
+  
+   
+  
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    supports HTML5 video
+  
+Video Player is loading.Play VideoPlayMute0:00/0:00Loaded: 0%Progress: 0%Stream TypeLIVE0:00 Playback Rate1xChaptersChaptersDescriptionsdescriptions off, selectedCaptionscaptions and subtitles off, selectedAudio TrackFullscreenThis is a modal window.No compatible source was found for this media.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.Video Advertisement
+
+var player = videojs('player-1544696627291', {
+  plugins: {
+    embed:{
+  embeddable: true,
+  location: '//media-service-prod.eu-west-1.elasticbeanstalk.com/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvL2lvbC8yMDE4LzEyLzEzLzE4NDkzMDAwLzAvV2hhdHNBcHAgVmlkZW8gMjAxOC0xMi0xMyBhdCAxMC4xNy4yMi5tcDQmc3RhbmRBbG9uZT10cnVl'
+},
+watermark: {
+  file: '//imigino-cdn.iol.co.za/logos/ivoLogo.png',
+  xpos: 0,
+  ypos: 0,
+  xrepeat: 0,
+  opacity: 0.75
+},
+ga: {
+  'eventsToTrack': ['start', 'end', 'play', 'pause', 'fullscreen', 'error']
+},
+playerTrackerReporter: {
+  params:{
+    videoKey: 'public/inm/media/video/iol/2018/12/13/18493000/0/WhatsApp Video 2018-12-13 at 10.17.22'
+  },
+  playerShowTracking: false,
+  contentPlayTracking: true,
+  videoStartTracking: false
+},
+  }
+});
+player.ima({
+  id: 'player-1544696627291',
+  adLabel: 'Video Advertisement',
+  adTagUrl: 'https://pubads.g.doubleclick.net/gampad/ads?sz=400x300|640x480&iu=/116466607/IOL/Video&ciu_szs=300x250,300x600,728x90&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1'
+});
+
+
+
+
+ 
+  Yanga Sobetwa was surpised by Kfm's breakfast show team on Thursday morning when they announced that she would be performing at Huawei KDay next year. Video: Zodidi Dano/Cape Argus
+ 
+
+“I was completely overwhelmed by celebrating the announcement in song with my idols, Craig Lucas and Paxton. I am beyond excited about being added to the impressive line-up for Huawei KDay. This will be my first big performance in the city and look forward to meeting all the Capetonians who rooted for me during the Idols competition,” said Yanga Sobetwa.
+Tickets are priced from R300 for adults while children under the age of 12 will pay R150. Tickets for the Chill Zone are priced at R490 and are available through Computicket.
+
+ 
+ 
+  Yanga Sobetwa. Picture: Armand Hough/African News Agency (ANA)
+ 
+
+Stay tuned to Kfm94.5 and www.kfm.co.za for Huawei KDay 2019 news. Engage via social media using: #HuaweiKDay @HuaweiZA @Kfmza
+EVENT DETAILS:Event: Huawei KDay 2019 with Kfm 94.5Date: Saturday, 2 March 2019Time:11am – 8pmVenue: Meerendal Wine Estate, DurbanvilleTickets are available through Computicket:* R300 adults* R150 for children under 12* R490 Kfm Chill ZoneSocial media hashtag: #HuaweiKDay
